@@ -1,6 +1,6 @@
 import streamlit as st
 from collections import deque
-from Chat_Application import *
+from .Chat_Application import *
 
 def chatbot(text):
     
