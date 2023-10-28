@@ -6,7 +6,7 @@ from langchain.agents import load_tools
 from langchain.agents import initialize_agent
 from langchain.agents import AgentType
 import json
-from .ccd_text_split import *
+from ccd_text_split import *
 
 llm = OpenAI(temperature=1, openai_api_key='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')
 llm_chat = ChatOpenAI(temperature=1, openai_api_key="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")
