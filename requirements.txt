@@ -1,6 +1,6 @@
-ctransformers
+pip
 langchain
 pinecone_client
 streamlit
-torch
-transformers
+
+
