@@ -41,7 +41,7 @@ def check_language(user_input):
 
 
 def process_input_type(query):
-    template_file_path = "/root/Programs/Tree_OpenAi_v2/content/identify_sentence.txt"
+    template_file_path = "https://github.com/Thrishaaa/streamlit/blob/main/identify_sentence.txt"
     with open(template_file_path, 'r') as file:
         template_sentence = file.read()
     ans = instruction_llm(template_sentence, query=query)
@@ -74,18 +74,18 @@ def main_process(user_input):
             return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/1_greetings.json', user_input, 'https://github.com/Thrishaaa/streamlit/blob/main/Greeting_prompt.txt')
         
         elif 'Compliment' in result:
-            return response_generator('/root/Programs/Tree_OpenAi_v2/json files/2_compliments.json',user_input, '/root/Programs/Tree_OpenAi_v2/content/Compliments_prompt.txt')
+            return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/2_compliments.json',user_input, 'https://github.com/Thrishaaa/streamlit/blob/main/Compliments_prompt.txt')
         
         elif 'Personal' in result:
-            return response_generator('/root/Programs/Tree_OpenAi_v2/json files/3_personal.json',user_input, '/root/Programs/Tree_OpenAi_v2/content/Personal_prompt.txt')
+            return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/3_personal.json',user_input, 'https://github.com/Thrishaaa/streamlit/blob/main/Personal_prompt.txt')
             
         elif 'Offensive' in result:
-            return response_generator('/root/Programs/Tree_OpenAi_v2/json files/4_offensive.json',user_input,'/root/Programs/Tree_OpenAi_v2/content/Offensive_prompt.txt')
+            return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/4_offensive.json',user_input,'https://github.com/Thrishaaa/streamlit/blob/main/Offensive_prompt.txt')
         
         elif 'Database' in result:
             #print('\n AI:  ',response_generator('/root/Programs/Tree_OpenAi_v2/json files/5_database.json',user_input))
             context = product_qa(user_input)
-            with open('/root/Programs/Tree_OpenAi_v2/content/Database_prompt.txt', 'r') as file:
+            with open('https://github.com/Thrishaaa/streamlit/blob/main/Database_prompt.txt', 'r') as file:
                 template = file.read()
             template = template + context + "{history}"
             return chat_reply(template,user_input)
