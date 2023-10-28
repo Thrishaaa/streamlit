@@ -1,5 +1,5 @@
 from packages import *
-from sentence_transformers import SentenceTransformerEmbeddings
+from sentence_transformers import SentenceTransformer
 
 #Connecting to Pinecone Server
 api_key = "fa8f252e-6725-47d0-9d17-5378a7d8fd55"
