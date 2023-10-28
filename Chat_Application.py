@@ -71,7 +71,7 @@ def main_process(user_input):
         
         result = process_input_type(user_input)
         if 'Greeting' in result:
-            return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/1_greetings.json', user_input, '/root/Programs/Tree_OpenAi_v2/content/Greeting_prompt.txt')
+            return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/1_greetings.json', user_input, 'https://github.com/Thrishaaa/streamlit/blob/main/Greeting_prompt.txt')
         
         elif 'Compliment' in result:
             return response_generator('/root/Programs/Tree_OpenAi_v2/json files/2_compliments.json',user_input, '/root/Programs/Tree_OpenAi_v2/content/Compliments_prompt.txt')
