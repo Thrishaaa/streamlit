@@ -1,5 +1,5 @@
 from collections import deque
-from langchain.llms import OpenAI, HuggingFacePipeline  
+from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import HumanMessagePromptTemplate, SystemMessagePromptTemplate, PromptTemplate, ChatPromptTemplate
 from langchain.chains import ConversationChain, LLMChain
@@ -12,19 +12,16 @@ import pinecone
 from copy import copy,deepcopy
 from langchain.memory import ConversationBufferWindowMemory
 from transformers import pipeline
+from transformers import sentence_transformers
 import os
 from dataclasses import dataclass, asdict
-from ctransformers import AutoModelForCausalLM, AutoConfig
-#from transformers import Conversation, SystemMessagePrompt, UserMessagePrompt
-import torch
-from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 import json
 from collections import deque
 import copy
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain.memory import ConversationSummaryBufferMemory
 from langchain.llms import OpenAI
 import transformers 
 from langchain import OpenAI
 from langchain.chains import ConversationChain
 from langchain.chat_models import ChatOpenAI
+
