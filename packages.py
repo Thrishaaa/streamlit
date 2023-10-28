@@ -12,7 +12,7 @@ import pinecone
 from copy import copy,deepcopy
 from langchain.memory import ConversationBufferWindowMemory
 from transformers import pipeline
-from transformers import sentence_transformers
+import sentence_transformers
 import os
 from dataclasses import dataclass, asdict
 import json
