@@ -3,5 +3,6 @@ langchain
 pinecone_client
 streamlit
 sentence_transformers
+SentenceTransformerEmbeddings
 
 
