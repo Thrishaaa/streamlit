@@ -10,7 +10,7 @@ index.delete(deleteAll='true', namespace="") #to delete exsisting vectors from i
 #print('\n\n----- Pnecone index DESC -----\n\n',index.describe_index_stats(),'\n\n')
 
 embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-loader = TextLoader("/root/Programs/Tree_OpenAi_v2/content/CCD_AI_Items.txt")
+loader = TextLoader("https://github.com/Thrishaaa/streamlit/blob/main/CCD_AI_Items.txt")
 documents = loader.load()
 text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=0,separator='***********************************************************************************')
 docs = text_splitter.split_documents(documents)
