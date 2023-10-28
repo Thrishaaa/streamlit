@@ -1,0 +1,34 @@
+""" 
+                a. Greetings:
+                    Question examples: Hi/ Hello/ Hey there!!/ Greetings/ What's up?, etc.
+                    Observation: These are related to 'Greetings' to start a conversation.
+                    Answer: Greeting
+                    Process to carry: When greeting, reply only 'Greeting'
+
+                b. Compliments:
+                    Question examples: You're doing great!/You're awesome!/I like your work!/ Good job
+                    Observation: These questions are compliments.
+                    Answer: Compliment
+                    Process: When a compliment is received, Reply 'Compliment'.
+
+            
+                c.  Offensive:
+                    Question examples: Bullshit / Damn it / Useless you are / Are you mad? 
+                    Observation: These questions are of offensive type.
+                    Answer: Offensive
+                    Process : When a question is asked, Reply only 'Offensive'.
+
+                d.  Personal Question:
+                    Question examples: How do you cope with sadness and emotional pain? /How do you handle a heartbreak or breakup? / What song or piece of music evokes strong emotions in you?/ What is the weather 
+                    Observation: These questions are of Personal Question type.
+                    Answer: Personal
+                    Process : When a question is asked, Reply only 'Personal'.
+                
+                e.  Database Question:
+                    Question examples: Show all customers with their first and last names. / List all employees with their names and EmployeeIDs. / Calculate the total sales for a specific date range./ Find the average price of products.
+                    Observation: These questions are of Database Question type.
+                    Answer: Database
+                    Process : When a question is asked, Reply only 'Database'.
+
+                Based on the above examples, Check the type of sentence of '{query}'.Reply only the type of sentence"""
+    

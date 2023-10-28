@@ -1,0 +1,1993 @@
+Code:A3033
+Category:Beat The Heat With Iced Coffees
+Name:Iced Americano
+Description:Single shot of espresso and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 52.48
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A3039
+Category:Beat The Heat With Iced Coffees
+Name:Iced Americano No Sugar
+Description:Single shot of espresso without sugar and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 4.98
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A3036
+Category:Beat The Heat With Iced Coffees
+Name:Iced Americano Sugar Free
+Description:Single shot of espresso with sugarfree and ice cold water make an addictive beverage to beat the heat, Serving Size(gm/ml) - 300, Energy (kcal) - 4.97
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A3032
+Category:Beat The Heat With Iced Coffees
+Name:Iced Filter Coffee
+Description:Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 132.16, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3038
+Category:Beat The Heat With Iced Coffees
+Name:Iced Filter Coffee No Sugar
+Description:Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 86.91, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3035
+Category:Beat The Heat With Iced Coffees
+Name:Iced Filter Coffee Sugar Free
+Description:Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 86.66, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3030
+Category:Beat The Heat With Iced Coffees
+Name:Iced Latte
+Description:Rich espresso with steamed milk, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 135.84, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3037
+Category:Beat The Heat With Iced Coffees
+Name:Iced Latte No Sugar
+Description:Rich espresso, steamed milk with sugarfree, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 91.40, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3034
+Category:Beat The Heat With Iced Coffees
+Name:Iced Latte Sugar Free
+Description:Rich espresso, steamed milk with sugarfree, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 91.13, Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3031
+Category:Beat The Heat With Iced Coffees
+Name:Iced Mocha
+Description:Little chocolate, lots of coffee, made icy cold to refresh your soul, Serving Size(gm/ml) - 300, Energy (kcal) - 153.09, Contains Milk
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA TOPING,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3632
+Category:Big Crunch Burger-New Launch!
+Name:Big Peri Peri Chicken Burger
+Description:Crispy chicken patty meets peri peri flavors, Onion, Jalapeno, Tomato, Gherkins and Exotic sauces layered in sesame bun and served with chips and a dip on the side. Serving Size(gm/ml) - 345, Energy (kcal) - 861.6, Contains Gluten, Contains Milk, Contains Soy, Contains Sulphite
+Tag:NON-VEG
+Rate:369.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BURGER BOX 2022,
+CHEESE & JALAPENO DIP-1KG,
+EGGLESS MAYONNAISE CHEF S CHOICE(1KG),
+LAYS WAFER STYLE CHIPS (NOS),
+NUTRALITE TABLE SPREAD,
+PIRI PIRI CHICKEN PATTY,
+SESAME BUN FROZEN,
+
+***********************************************************************************
+
+Code:A3635
+Category:Big Crunch Burger-New Launch!
+Name:Big Tandoori Chicken Burger
+Description:Tandoori chicken patty indulged with Onion, Jalapeno, Tomato, Gherkins, Exotic sauces layered in sesame bun and served with chips and a dip on the side. Serving Size(gm/ml) - 338, Energy (kcal) - 841.6, Contains Gluten, Contains Milk, Contains Soy, Contains Sulphite
+Tag:NON-VEG
+Rate:369.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BURGER BOX 2022,
+CHEESE & JALAPENO DIP-1KG,
+EGGLESS MAYONNAISE CHEF S CHOICE(1KG),
+LAYS WAFER STYLE CHIPS (NOS),
+NUTRALITE TABLE SPREAD,
+SESAME BUN FROZEN,
+SPICY PAPRIKA PATTY,
+VEG MAYO TANDOORI-1KG,
+
+***********************************************************************************
+
+Code:A3629
+Category:Big Crunch Burger-New Launch!
+Name:Big Tandoori Paneer Burger
+Description:Crispy paneer patty in sesame bun loaded with flavorful Paneer, Onion, Jalapeno, Tomato, Gherkins, Exotic sauces and served with chips and a dip on the side. Serving Size(gm/ml) - 348, Energy (kcal) - 1015.5, Contains Gluten, Contains Milk, Contains Soy, Contains Sulphite
+Tag:VEG
+Rate:369.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BURGER BOX 2022,
+CHEESE & JALAPENO DIP-1KG,
+EGGLESS MAYONNAISE CHEF S CHOICE(1KG),
+LAYS WAFER STYLE CHIPS (NOS),
+NUTRALITE TABLE SPREAD,
+SESAME BUN FROZEN,
+TANDOORI PANEER PATTY,
+VEG MAYO TANDOORI-1KG,
+
+***********************************************************************************
+
+Code:A1867
+Category:Celebration Cake
+Name:Butterscotch Crunch Cake (695 g)
+Description:Delightfully moist Butterscotch cake, layered with silky butterscotch mousse and topped with crunchy toffee crisps, Serving Size(gm/ml) - 100, Energy (kcal) - 258.77 , Contains Gluten, Contains Milk, Contains Nuts, Contains Soy
+Tag:VEG
+Rate:675.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CRUNCH CAKE,
+
+***********************************************************************************
+
+Code:A1866
+Category:Celebration Cake
+Name:Dutch Truffle Cake (730 g)
+Description:A sinful indulgence of a cake. Delightful cocoa cake laced with creamy truffle with an orange flavor, topped with a delicious ganache glaze, Serving Size(gm/ml) - 100, Energy (kcal) - 366.25 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:675.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+DUTCH TRUFFLE,
+
+***********************************************************************************
+
+Code:A3808
+Category:Celebration Cake
+Name:Pineapple Delight Cake (680 g)
+Description:New Launch - A must try. Enjoy this creamy pineapple cake which is made with just the right blend of pineapple chunks and creamy sponge cake to delight your taste buds. Serving Size(gm/ml) - 680, Energy (kcal) - 1539.04, Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:729.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+
+***********************************************************************************
+
+Code:A2540
+Category:Celebration Cake
+Name:Red Velvet Cake (740 g)
+Description:Indulge your taste buds with Red Velvet, the queen of all layered cakes with its soft red sponge and decadent cream cheese, Serving Size(gm/ml) - 100, Energy (kcal) - 274.22 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:675.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+RED VELVET CAAKE,
+
+***********************************************************************************
+
+Code:A2379
+Category:Cold Coffee Delights
+Name:Cafe Frappe
+Description:The rich, creamy and irresistible Cafe Frappe that is an all time favourite. Serving Size(gm/ml) - 350, Energy (kcal) - 335.48 Contains Milk, Contains Soy
+Tag:VEG
+Rate:269.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A2229
+Category:Cold Coffee Delights
+Name:Cold Dark Frappe
+Description:Rich and creamy cold coffee with a scoop of ice cream, drenched with chocolate sauce, Serving Size(gm/ml) - 350, Energy (kcal) - 344.16 Contains Milk
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+COCOA TOPING,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A2226
+Category:Cold Coffee Delights
+Name:Cold Devils Own
+Description:Rich and creamy cold coffee with sinful chocolate sauce, topped with whipped cream, Serving Size(gm/ml) - 350, Energy (kcal) - 382.66 Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+COCOA TOPING,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A2235
+Category:Cold Coffee Delights
+Name:Crunchy Frappe
+Description:Sinfully rich cocoa drink loaded with crunchy Oreo cookies, Serving Size(gm/ml) - 350, Energy (kcal) - 541.59 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+COCOA TOPING,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A3564
+Category:Cold Coffee Delights
+Name:Hazelnut Frappe
+Description:Hazelnut brings nutty flavor to the rich, creamy and irresistible Cafe Frappe. Serving Size(gm/ml) - 350, Energy (kcal) - 332.90, Contains Milk.
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+HAZELNUT SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A2245
+Category:Cold Coffee Delights
+Name:Signature Cold Coffee
+Description:Our classic filter coffee on the rocks. *No sugar added. Serving Size(gm/ml) - 300, Energy (kcal) - 227.52 Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+FRAPPE MATE THICK SHAKE BASE-15 GRAMS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2248
+Category:Cold Coffee Delights
+Name:Tangerine White Chocolate Frappe
+Description:Feel like winter with this blend of tangerine white chocolate sauce, espresso & cream, topped with yummy whipped cream, Serving Size(gm/ml) - 350, Energy (kcal) - 391.86 Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+TANGERINE WHITE CHOCOLATE 500 ML,
+
+***********************************************************************************
+
+Code:A2374
+Category:Cold Coffee Delights
+Name:Tropical Ice Berg
+Description:Get the best of both worlds in this delectable cocoa and coffee flavoured drink, Serving Size(gm/ml) - 350, Energy (kcal) - 322.67 Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+FRAPPE MATE-T(TROPICAL PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A3565
+Category:Cold Coffee Delights
+Name:Vanilla Frappe
+Description:Vanilla Cafe Frappe is an all time delight with rich and creamy texture and irresistible mouth feel. Serving Size(gm/ml) - 350, Energy (kcal) - 311.96, Contains Milk.
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A3002
+Category:Cookies N Chips
+Name:Double Choco Chip Cookies Twin Pack (150gm each)
+Description:Delicious and crunchy these cookies are the perfect coffee mate
+Tag:VEG
+Rate:381.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+DOUBLE CHOCOCHIP COOKIES 150GMS-MRP200,
+
+***********************************************************************************
+
+Code:A3003
+Category:Cookies N Chips
+Name:Honey And Oatmeal Cookies Twin Pack (150gm each)
+Description:Enjoy the crunch of real honey and oats in these perfectly baked cookies
+Tag:VEG
+Rate:381.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+HONEY & OATMEAL COOKIES-150GMS-MRP 200,
+
+***********************************************************************************
+
+Code:A3122
+Category:Croissants Reloaded
+Name:Cheese Tomato Croissant Slider
+Description:Enjoy delicious bite of tomato and cheese stuffed in a pair of croissants. Serving Size(gm/ml) - 130, Energy (kcal) - 426.4, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+
+***********************************************************************************
+
+Code:A3314
+Category:Croissants Reloaded
+Name:Chicken Croissant Slider Platter
+Description:2 mini grilled chicken sausage croissants and 2 mini smoked chicken croissants served in a wholesome platter. Serving Size(gm/ml) - 280, Energy (kcal) - 765.57 , Contains Gluten, Contains Milk, Contains Soy
+Tag:NON-VEG
+Rate:379.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+CHICKEN SAUSAGE-NEW,
+SANDWICH BOX 2022,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3308
+Category:Croissants Reloaded
+Name:Chocoberry Croissant Platter
+Description:Enjoy a wonderful platter of 2 mini chocolate and 2 mini strawberry croissants. Serving Size(gm/ml) - 190, Energy (kcal) - 719.25 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:379.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+SANDWICH BOX 2022,
+
+***********************************************************************************
+
+Code:A3116
+Category:Croissants Reloaded
+Name:Chocolate Croissant
+Description:A pair of sweet croissants with choco hugs to uplift your mood. Serving Size(gm/ml) - 80, Energy (kcal) - 598.91, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+HERSHEY SPREADS COCOA 350GM,
+
+***********************************************************************************
+
+Code:A3113
+Category:Croissants Reloaded
+Name:Croissant
+Description:These twin flaky croissants are the perfect accompaniment to your coffee break. Serving Size(gm/ml) - 60, Energy (kcal) - 259.56, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:169.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+
+***********************************************************************************
+
+Code:A3125
+Category:Croissants Reloaded
+Name:Grilled Sausage Croissant Slider
+Description:The croissants that have it all. Mini chicken sausages, crispy lettuce, and hot sauce. Serving Size(gm/ml) - 160, Energy (kcal) - 528, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:229.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+CHICKEN SAUSAGE-NEW,
+
+***********************************************************************************
+
+Code:A3317
+Category:Croissants Reloaded
+Name:Mixed Croissant Slider Platter
+Description:Are you a paneer lover and your BFF a chicken fan? Here is the perfect platter for you two. Enjoy 2 mini Smoked Chicken Croissants and 2 mini Tandoori Paneer Croissants. Serving Size(gm/ml) - 270, Energy (kcal) - 797.7, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:379.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+PANEER TIKKA FILLLING (0.25 KG),
+SANDWICH BOX 2022,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3311
+Category:Croissants Reloaded
+Name:Veg Croissant Slider Platter
+Description:A loaded platter served with 2 mini tomato N cheese croissants and 2 mini tandoori paneer croissants. Serving Size(gm/ml) - 260, Energy (kcal) - 833.84 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:379.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+PANEER TIKKA FILLLING (0.25 KG),
+SANDWICH BOX 2022,
+
+***********************************************************************************
+
+Code:A3143
+Category:Delightful Desserts
+Name:Classic New York Cheesecake
+Description:A evertime classic which will uplift your mood when consumed with a hot beverage. Serving Size(gm/ml) - 180, Energy (kcal) - 562.43, Contains Gluten, Contains Milk, Contains Egg.
+Tag:NON-VEG
+Rate:289.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BAKED CHEESE CAKE (ES),
+
+***********************************************************************************
+
+Code:A3152
+Category:Delightful Desserts
+Name:Hazelnut Brownie
+Description:The only time Hazelnut wins against the chocolate brownie. Serving Size(gm/ml) - 95, Energy (kcal) - 321.19, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+NUT BROWNIE 95GM (ES),
+
+***********************************************************************************
+
+Code:A3149
+Category:Delightful Desserts
+Name:Red Velvet Heaven
+Description:A slice of red velvet divineness we bet you can not resist. Serving Size(gm/ml) - 120, Energy (kcal) - 329.06, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+RED VELVET CAAKE,
+
+***********************************************************************************
+
+Code:A3140
+Category:Delightful Desserts
+Name:Signature Choco Fantasy
+Description:So chocolatey and creamy, our signature chocolate ganache makes the fantasy chocolicious. Serving Size(gm/ml) - 120, Energy (kcal) - 450.27, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHOCO GANACHE CAKE LARGE,
+
+***********************************************************************************
+
+Code:A3146
+Category:Delightful Desserts
+Name:Strawbelicious Cheesecake
+Description:A cheesecake with strawberry compote twist, one that you will fall head over heels for. Serving Size(gm/ml) - 200, Energy (kcal) - 571.05, Contains Gluten, Contains Milk, Contains Egg.
+Tag:NON-VEG
+Rate:309.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+BAKED CHEESE CAKE (ES),
+SAUCE 2P 100 ML TUB,
+STRWBRRY COMPOTE - MALAS - 1 KG,
+
+***********************************************************************************
+
+Code:A3199
+Category:Double Decker Sandwiches
+Name:Double Decker Cheese N Tomato Sandwich
+Description:When one is not enough for those hunger pangs, you get two decks of mayo, cheese and tomatoes in a chipotle bread. Serving Size(gm/ml) - 160, Energy (kcal) - 362.41, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHEESE SLICE (INDUVIDUALLY WRAPPED),
+FROZEN BAKED CHIPOTLE BREAD,
+LAYS WAFER STYLE CHIPS (NOS),
+TOMATO WHOLE,
+
+***********************************************************************************
+
+Code:A3198
+Category:Double Decker Sandwiches
+Name:Double Decker Creamy Smoked Chicken Sandwich
+Description:Sumptuous sandwich with one deck of succulent smoked chicken filling topped with crunchy veggies and another deck of mayo, cheese and tomatoes served in a chipotle bread. Serving Size(gm/ml) - 180, Energy (kcal) - 353.26, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:299.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+CHEESE SLICE (INDUVIDUALLY WRAPPED),
+FROZEN BAKED CHIPOTLE BREAD,
+LAYS WAFER STYLE CHIPS (NOS),
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3200
+Category:Double Decker Sandwiches
+Name:Double Decker Paneer Tikka Sandwich
+Description:Satiate your hunger with this double decker sandwich made with traditional paneer tikka, crunchy salad, mayo and a second layer of cheese and tomatoes served in a chipotle bread. Serving Size(gm/ml) - 180, Energy (kcal) - 449.45, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHEESE SLICE (INDUVIDUALLY WRAPPED),
+FROZEN BAKED CHIPOTLE BREAD,
+LAYS WAFER STYLE CHIPS (NOS),
+PANEER TIKKA FILLLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3302
+Category:Double Decker Sandwiches
+Name:Double Decker Spinach Corn N Cheese Sandwich
+Description:The most popular double decker sandwich with one layer of tomato and cheese and base layer of onion, cheese and spinach corn filling. Serving Size(gm/ml) - 200, Energy (kcal) - 416.88, Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN BAKED CHIPOTLE BREAD,
+LAYS WAFER STYLE CHIPS (NOS),
+SANDWICH BOX 2022,
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3305
+Category:Double Decker Sandwiches
+Name:Double Decker Tandoori Chicken Sandwich
+Description:Spiced chiken patty with creamy mayo and lettuce, tomato and cheese in double decker chipotle sub. Serving Size(gm/ml) - 220, Energy (kcal) - 468.13, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:299.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+CHEESE SLICE (INDUVIDUALLY WRAPPED),
+FROZEN BAKED CHIPOTLE BREAD,
+LAYS WAFER STYLE CHIPS (NOS),
+PAPRIKA CHICKEN PATTY,
+SANDWICH BOX 2022,
+
+***********************************************************************************
+
+Code:A2290
+Category:Flask
+Name:Americano Mini Flask (360ml, Serves 3 to 4)
+Description:Activating, black coffee with two shots of espresso., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned
+Tag:VEG
+Rate:378.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A2302
+Category:Flask
+Name:Cafe Frappe Mega Flask (700ml, Serves 3 to 4)
+Description:The rich, creamy and irresistible Cafe Frappe that is an all time favourite, Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:498.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A2280
+Category:Flask
+Name:Cafe Latte Mega Flask (750ml, Serves 5 to 6)
+Description:Light, hot coffee, with 2 shots of espresso in steamed milk., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:498.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2278
+Category:Flask
+Name:Cafe Latte Mini Flask (500ml, Serves 3 to 4)
+Description:Light, hot coffee, with 2 shots of espresso in steamed milk., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:398.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2296
+Category:Flask
+Name:Cafe Mocha Mini Flask (420ml, Serves 3 to 4)
+Description:Hot coffee made with the right proportion of espresso, hot milk and rich chocolate sauce., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:418.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA TOPING,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2305
+Category:Flask
+Name:Filter Coffee Mega Flask (690ml, Serves 5 to 6)
+Description:A classic South Indian style coffee, which will remind you of Chikmagalurs coffee plantations., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:498.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A2304
+Category:Flask
+Name:Filter Coffee Mini Flask (460ml, Serves 3 to 4)
+Description:A classic South Indian style coffee, which will remind you of Chikmagalurs coffee plantations., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:368.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A2271
+Category:Flask
+Name:Gourmet Belgian Hot Chocolate Mini Flask (420ml, Serves 3 to 4)
+Description:This sinful brew is a blend of gourmet Belgian dark chocolate and milk., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:428.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+GOUR BELGIAN HOT CHOCOLATE MIX 25GM,
+MILK,
+
+***********************************************************************************
+
+Code:A2284
+Category:Flask
+Name:Vanilla Cafe Latte Mini Flask (500ml, Serves 3 to 4)
+Description:Our Cafe Latte, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - As per cups provided. Prepared volume mentioned. Froth may settle
+Tag:VEG
+Rate:468.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2165
+Category:Hot Coffee Selections
+Name:Cafe Americano
+Description:Activating, black coffee with two shots of espresso., Serving Size(gm/ml) - 180, Energy (kcal) - 7.27
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A2157
+Category:Hot Coffee Selections
+Name:Cafe Latte
+Description:Light, hot coffee, with a shot of espresso in steamed milk., Serving Size(gm/ml) - 250, Energy (kcal) - 131.9 Contains Milk
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2171
+Category:Hot Coffee Selections
+Name:Cafe Mocha
+Description:Hot coffee made with the right blend of espresso, hot milk and rich chocolate sauce., Serving Size(gm/ml) - 210, Energy (kcal) - 129.05 Contains Milk
+Tag:VEG
+Rate:229.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COCOA TOPING,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2151
+Category:Hot Coffee Selections
+Name:Cappuccino
+Description:A strong shot of Italian styled espresso, evened out with steamed and foamed milk., Serving Size(gm/ml) - 250, Energy (kcal) - 128.9 Contains Milk
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2148
+Category:Hot Coffee Selections
+Name:Espresso Shot
+Description:A 30 ml serving of Coffee Shot for those who love a strong coffee black coffee without milk and without sugar. Serving Size(gm/ml) - 30, Energy (kcal) - 5.81
+Tag:VEG
+Rate:169.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A2174
+Category:Hot Coffee Selections
+Name:Filter Coffee
+Description:A classic South Indian style coffee, which will remind you of Chikmagalurs coffee plantations., Serving Size(gm/ml) - 230, Energy (kcal) - 133.24 Contains Milk
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A2177
+Category:Hot Coffee Selections
+Name:Flat White Coffee
+Description:Flat White Coffee, Serving Size(gm/ml) - 250, Energy (kcal) - 125.08 Contains Milk
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2329
+Category:Hot Coffee Selections
+Name:Honey Cinnamon Coffee
+Description:Stretched espresso with goodness of honey and cinnamon, Serving Size(gm/ml) - 180, Energy (kcal) - 55.3
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+
+***********************************************************************************
+
+Code:A2326
+Category:Hot Coffee Selections
+Name:Hot Velvet Coffee
+Description:A velvety smooth hot latte topped with sweet coffee foam, Serving Size(gm/ml) - 210, Energy (kcal) - 246.77 Contains Milk
+Tag:VEG
+Rate:210.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+INSTANT COFFEE CONTINENTAL 1.5GM,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2168
+Category:Hot Coffee Selections
+Name:Inverted Cappuccino
+Description:Cappuccino made upside down with steamed milk and a coffee ring, topped with milk foam. This drink is sure to leave you spellbound., Serving Size(gm/ml) - 210, Energy (kcal) - 193.39 Contains Milk
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2154
+Category:Hot Coffee Selections
+Name:King Cappuccino
+Description:Two shots of Italian styled espresso, evened out with steamed and foamed milk., Serving Size(gm/ml) - 350, Energy (kcal) - 180.46 Contains Milk
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2160
+Category:Hot Coffee Selections
+Name:King Latte
+Description:Light, hot coffee, with 2 shots of espresso in steamed milk., Serving Size(gm/ml) - 350, Energy (kcal) - 184.66 Contains Milk
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A2335
+Category:Hot Coffee Selections
+Name:Lemon Green Coffee
+Description:For the health conscious, loaded with the antioxidants of green coffee & freshness of lemon. Serving Size(gm/ml) - 210, Energy (kcal) - 85.27
+Tag:VEG
+Rate:209.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+INSTANT COFFEE (LEMON),
+
+***********************************************************************************
+
+Code:A2186
+Category:Hot Coffee Selections
+Name:Vanilla Cappuccino
+Description:Our Classic Cappuccino, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 250, Energy (kcal) - 231.35 Contains Milk
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2189
+Category:Hot Coffee Selections
+Name:Vanilla King Cappuccino
+Description:Our Classic King Cappuccino, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 350, Energy (kcal) - 323.89 Contains Milk
+Tag:VEG
+Rate:269.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2195
+Category:Hot Coffee Selections
+Name:Vanilla King Latte
+Description:Our King Cafe Latte, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 350, Energy (kcal) - 318.5 Contains Milk
+Tag:VEG
+Rate:279.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2192
+Category:Hot Coffee Selections
+Name:Vanilla Latte
+Description:Our Cafe Latte, enhanced with the delicate and subtle flavour of Vanilla., Serving Size(gm/ml) - 250, Energy (kcal) - 227.5 Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK,
+VANILLA SYRUP HOT (750 ML) - ORANA,
+
+***********************************************************************************
+
+Code:A2198
+Category:Hot Coffee Selections
+Name:White Chocolate Cappuccino
+Description:A cappuccino brewed with the zesty magic of tangerines and the delightful creaminess of white chocolate, Serving Size(gm/ml) - 250, Energy (kcal) - 255.58, Contains Milk, Contains Soy
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+MILK,
+TANGERINE WHITE CHOCOLATE 500 ML,
+
+***********************************************************************************
+
+Code:A2201
+Category:Hot Coffee Selections
+Name:White Chocolate King Cappuccino
+Description:A cappuccino brewed with the zesty magic of tangerines and the delightful creaminess of white chocolate, Serving Size(gm/ml) - 350, Energy (kcal) - 357.805, Contains Milk, Contains Soy
+Tag:VEG
+Rate:269.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+MILK,
+TANGERINE WHITE CHOCOLATE 500 ML,
+
+***********************************************************************************
+
+Code:A3482
+Category:Hot Special Flavorful Beverages
+Name:Hazelnut Cappuccino
+Description:The flavourful hazelnut brings a new twist to your favorite cappuccino. Serving Size(gm/ml) - 250, Energy (kcal) - 229.71, Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+HAZELNUT SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3487
+Category:Hot Special Flavorful Beverages
+Name:Hazelnut Hot Chocolate
+Description:A blend of hazelnut flavour, gourmet belgian dark chocolate and milk to tingle your taste buds. Serving Size(gm/ml) - 200, Energy (kcal) - 261.15, Contains Milk
+Tag:VEG
+Rate:289.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+GOUR BELGIAN HOT CHOCOLATE MIX 25GM,
+HAZELNUT SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3483
+Category:Hot Special Flavorful Beverages
+Name:Hazelnut Latte
+Description:The flavourful hazelnut brings a new twist to your favorite Latte. Serving Size(gm/ml) - 250, Energy (kcal) - 222.4, Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+HAZELNUT SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3484
+Category:Hot Special Flavorful Beverages
+Name:Irish Cappuccino
+Description:Get high on caffeine with this irish cappuccino. Serving Size(gm/ml) - 250, Energy (kcal) - 228.26, Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+IRISH SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3486
+Category:Hot Special Flavorful Beverages
+Name:Irish Coffee
+Description:Layered black coffee, stretched espresso flavored with Irish cream syrup. Topped with whipped cream. Serving Size(gm/ml) - 200, Energy (kcal) - 189.54, Contains Soy
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+CREAM CHARGER CYLINDER,
+IRISH SYRUP 750ML,
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3488
+Category:Hot Special Flavorful Beverages
+Name:Irish Hot Chocolate
+Description:A blend of irish flavour, gourmet belgian dark chocolate and milk to tingle your taste buds. Serving Size(gm/ml) - 200, Energy (kcal) - 252.93, Contains Milk
+Tag:VEG
+Rate:289.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+GOUR BELGIAN HOT CHOCOLATE MIX 25GM,
+IRISH SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3485
+Category:Hot Special Flavorful Beverages
+Name:Irish Latte
+Description:Get high on caffeine with this irish latte. Serving Size(gm/ml) - 250, Energy (kcal) - 221.08, Contains Milk
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+IRISH SYRUP 750ML,
+MILK,
+
+***********************************************************************************
+
+Code:A2502
+Category:Meal Box
+Name:Cafe Latte UniFlask n Smoked Chicken Sandwich
+Description:Save 7% with combo of light hot coffee and smoked chicken chipotle sandwich
+Tag:NON-VEG
+Rate:428.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A2464
+Category:Meal Box
+Name:Cappuccino n Paneer Tikka Sandwich
+Description:Save 13% with combo of cappuccino and paneer tikka chipotle sandwich
+Tag:VEG
+Rate:388.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+PANEER TIKKA FILLLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3225
+Category:Meal Box
+Name:Croissant Cappuccino Combo
+Description:Save 16% with combo of cappuccino and small bite croissant
+Tag:VEG
+Rate:318.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3050
+Category:Meal Box
+Name:Iced Filter Coffee N Chilli Cheese Toast
+Description:Save 7% with combo of iced filter coffee and chilli cheese toast
+Tag:VEG
+Rate:378.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHILLI CHEESE TOAST FROZEN,
+FILTER COFFEE DECOCTION 250 ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3046
+Category:Meal Box
+Name:Iced Mocha N Smoked Chicken Sw
+Description:Save 6% with combo of iced mocha and smoked chicken chipotle sandwich
+Tag:NON-VEG
+Rate:458.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+COCOA TOPING,
+COFFEE BEANS,
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3226
+Category:Meal Box
+Name:Veg Slider Cappuccino Combo
+Description:Save 7% with combo of cappuccino and delicious veg slider
+Tag:VEG
+Rate:398.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BAKED FAT BLEND CROISSANT SMALL,
+COFFEE BEANS,
+MILK,
+
+***********************************************************************************
+
+Code:A3524
+Category:Ready To Drink
+Name:Storm Energy Drink Pack of 6 (250ml each)
+Description:Get a boost of energy, from this refreshing and rejuvenating drink which will boost your energy level
+Tag:VEG
+Rate:857.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+STORM ENERGY DRINK 250ML_MRP 150,
+
+***********************************************************************************
+
+Code:A2232
+Category:Refreshing Quenchers
+Name:Alphonso Mango Frappe
+Description:Frappe becomes flavourful with the king of fruits adding its majestic taste. Enjoyed best on its own. Serving Size(gm/ml) - 350, Energy (kcal) - 427.56, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+FRAPPE MATE D(DS PREMIX),
+MANGO ALPHANSO SYRUP-1000ML,
+MILK,
+
+***********************************************************************************
+
+Code:A3205
+Category:Refreshing Quenchers
+Name:Classic Lemonade
+Description:An all season beverage to refresh your mood. Serving Size(gm/ml) - 300, Energy (kcal) - 125
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+43 MM LUG CAP GOLD,
+BISLERI SODA - 600 ML,
+LEMON,
+LEMON GINGER MINT FDL,
+MILK SHAKE BOTTLE-300ML,
+MINT LEAVES,
+
+***********************************************************************************
+
+Code:A2238
+Category:Refreshing Quenchers
+Name:Gourmet Belgian Cold Chocolate
+Description:An indulgent combination of Belgian chocolate and milk, topped with whipped cream and sprinkle of cocoa powder. Serving Size(gm/ml) - 350, Energy (kcal) - 345.84 Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+16 OZ RIPPLE CUP-BIODEGRADABLE,
+COCOA POWDER 100GM,
+FRAPPE MATE THICK SHAKE BASE-15 GRAMS,
+GOUR BELGIAN HOT CHOCOLATE MIX 25GM,
+MILK,
+
+***********************************************************************************
+
+Code:A2267
+Category:Refreshing Quenchers
+Name:Gourmet Belgian Hot Chocolate
+Description:This sinful brew is a blend of gourmet Belgian dark chocolate and milk. Serving Size(gm/ml) - 180, Energy (kcal) - 173.97 Contains Milk
+Tag:VEG
+Rate:249.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+GOUR BELGIAN HOT CHOCOLATE MIX 25GM,
+MILK,
+
+***********************************************************************************
+
+Code:A3197
+Category:Refreshing Quenchers
+Name:Lemon Iced Tea
+Description:Enjoy the citrusy punch in an iced tea to cool you off, quench your thirst or for your casual sip. Serving Size(gm/ml) - 300, Energy (kcal) - 156
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+43 MM LUG CAP GOLD,
+LEMON ICE SQUASH 1LTR,
+MILK SHAKE BOTTLE-300ML,
+
+***********************************************************************************
+
+Code:A3194
+Category:Refreshing Quenchers
+Name:Peach Iced Tea
+Description:An iced tea with peachy freshness. Serving Size(gm/ml) - 300, Energy (kcal) - 143.1
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+43 MM LUG CAP GOLD,
+MILK SHAKE BOTTLE-300ML,
+PEACH ICE SQUASH 1LTR,
+
+***********************************************************************************
+
+Code:A3191
+Category:Refreshing Quenchers
+Name:Watermelon Granita
+Description:Cool off and refresh yourself with the citrusy and slushy love from a watermelon. Serving Size(gm/ml) - 350, Energy (kcal) - 161
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+WATERMELON COSMOS SQUASH 1LTR,
+
+***********************************************************************************
+
+Code:A3188
+Category:Refreshing Quenchers
+Name:Watermelon Mojito
+Description:A mojito with a twist of watermelon, lemon and mint served with a fizzzzz to quench your thirst. Serving Size(gm/ml) - 300, Energy (kcal) - 163.2
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+43 MM LUG CAP GOLD,
+BISLERI SODA - 600 ML,
+MILK SHAKE BOTTLE-300ML,
+WATERMELON COSMOS SQUASH 1LTR,
+
+***********************************************************************************
+
+Code:A1848
+Category:Sandwiches N Buns
+Name:Paneer Tikka Sandwich
+Description:Traditional paneer tikka with crunchy salad and mayo in a chipotle bread, Serving Size(gm/ml) - 165, Energy (kcal) - 376.18 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN BAKED CHIPOTLE BREAD,
+PANEER TIKKA FILLLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A1846
+Category:Sandwiches N Buns
+Name:Smoked Chicken Sandwich
+Description:Succulent smoked chicken filling topped with crunchy veggies, served in a chipotle bread, Serving Size(gm/ml) - 165, Energy (kcal) - 329.67 , Contains Gluten, Contains Milk, Contains Soy
+Tag:NON-VEG
+Rate:239.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+FROZEN BAKED CHIPOTLE BREAD,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A1847
+Category:Sandwiches N Buns
+Name:Spinach n Corn Cheese Sandwich
+Description:Spinach and corn with melted cheese, served in a soft chipotle bread, Serving Size(gm/ml) - 150, Energy (kcal) - 351 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:229.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN BAKED CHIPOTLE BREAD,
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3134
+Category:Sandwiches N Buns
+Name:Tandoori Chicken Bun
+Description:Masala buns holding succulent chicken, mint coriander chutney, mayo and lots of love. Serving Size(gm/ml) - 190, Energy (kcal) - 472.34, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:219.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+MASALA BUN (FROZEN),
+NUTRALITE TABLE SPREAD,
+PAPRIKA CHICKEN PATTY,
+
+***********************************************************************************
+
+Code:A3131
+Category:Sandwiches N Buns
+Name:Tandoori Chicken Sandwich
+Description:Juicy chicken stuffed with fresh and crispy veggies to make your palate happy. Serving Size(gm/ml) - 190, Energy (kcal) - 414.2, Contains Gluten, Contains Milk, Contains Soy.
+Tag:NON-VEG
+Rate:229.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+FROZEN BAKED CHIPOTLE BREAD,
+PAPRIKA CHICKEN PATTY,
+
+***********************************************************************************
+
+Code:A3137
+Category:Sandwiches N Buns
+Name:Tandoori Paneer Bun
+Description:Masala buns spiced up with barbecued masala paneer, slice of cheese and mint coriander chutney. Serving Size(gm/ml) - 160, Energy (kcal) - 446.88, Contains Gluten, Contains Milk, Contains Soy.
+Tag:VEG
+Rate:219.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MASALA BUN (FROZEN),
+NUTRALITE TABLE SPREAD,
+PANEER TIKKA FILLLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3164
+Category:Sinful Sundaes
+Name:Caramel Me Sundae
+Description:Vanilla ice cream, biscuit crumbs and nuts served with generous caramel sauce to drive you nuts. Serving Size(gm/ml) - 195, Energy (kcal) - 525.53, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:279.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CARAMEL TOPPING 1.3KG,
+ICE CREAM 2P 500 ML LID,
+ICE CREAM 2P 500 ML TUB,
+VANILA FLAVOURED SINGLE SCP,
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3155
+Category:Sinful Sundaes
+Name:Choco Nirvana Sundae
+Description:Rich chocolate pastry, choco fudge, vanilla and choco ice cream. Its the best of 3 worlds. Serving Size(gm/ml) - 250, Energy (kcal) - 638.5, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:309.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHOCO GANACHE CAKE LARGE,
+CHOCOLATE FLAVOURED SINGLE SCP,
+CHOCOLATE FUDGE SAUCE 1KG,
+ICE CREAM 2P 500 ML LID,
+ICE CREAM 2P 500 ML TUB,
+VANILA FLAVOURED SINGLE SCP,
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3167
+Category:Sinful Sundaes
+Name:Classic Hot Fudge Sundae
+Description:Enjoy the goodness of vanilla ice cream and nuts dripping with the sinful hot fudge sauce. Serving Size(gm/ml) - 180, Energy (kcal) - 499.14, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:279.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHOCOLATE FUDGE SAUCE 1KG,
+ICE CREAM 2P 500 ML LID,
+ICE CREAM 2P 500 ML TUB,
+SAUCE 2P 100 ML TUB,
+VANILA FLAVOURED SINGLE SCP,
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3320
+Category:Sinful Sundaes
+Name:Death By Chocolate Sundae
+Description:Rich chocolate pastry with extra warm choco fudge, vanilla ice cream, topped with nuts. Serving Size(gm/ml) - 300, Energy (kcal) - 954.35, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:359.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHOCO GANACHE CAKE LARGE,
+ICE CREAM 2P 500 ML TUB,
+VANILA FLAVOURED SINGLE SCP,
+
+***********************************************************************************
+
+Code:A3158
+Category:Sinful Sundaes
+Name:Gooey Fudgy Brownie Sundae
+Description:Brownie or fudge? Indulge in both as we spoil you with servings of choco ice cream. Serving Size(gm/ml) - 250, Energy (kcal) - 727.25, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:309.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CARAMEL TOPPING 1.3KG,
+CHOCOLATE FLAVOURED SINGLE SCP,
+CHOCOLATE FUDGE SAUCE 1KG,
+ICE CREAM 2P 500 ML LID,
+ICE CREAM 2P 500 ML TUB,
+NUT BROWNIE 95GM (ES),
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3161
+Category:Sinful Sundaes
+Name:Merry Berry Sundae
+Description:Fresh strawberry sauce poured over vanilla ice cream, biscuit crumbs and nuts. We call it the temptress. Serving Size(gm/ml) - 195, Energy (kcal) - 471.32, Contains Gluten, Contains Milk, Contains Nuts, Contains Soy.
+Tag:VEG
+Rate:279.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+ICE CREAM 2P 500 ML LID,
+ICE CREAM 2P 500 ML TUB,
+STRWBRRY COMPOTE - MALAS - 1 KG,
+VANILA FLAVOURED SINGLE SCP,
+WHIPPCREAM PACK,
+
+***********************************************************************************
+
+Code:A3680
+Category:Summer Of 23-New Launch!
+Name:Caramel Frappe
+Description:A creamy blend of our signature frappe and sweet caramel to beat the summer heat with. Serving Size(gm/ml) - 350, Energy (kcal) - 409.5, Contains Gluten, Contains Milk, Contains Nuts
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CARAMEL SYRUP,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+
+***********************************************************************************
+
+Code:A3655
+Category:Summer Of 23-New Launch!
+Name:Classic Cold Brew
+Description:Our classic cold brew is handcrafted to soothe your soul with its sweet, smooth and mellow flavors. Serving Size(gm/ml) - 300, Energy (kcal) - 12.09
+Tag:VEG
+Rate:239.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MILK SHAKE BOTTLE-300ML,
+MNEB COFFEE POWDER 80 GM,
+
+***********************************************************************************
+
+Code:A3664
+Category:Summer Of 23-New Launch!
+Name:Cranberry Cold Brew
+Description:Iced cold brew paired with refreshing cranberry juice to take the perfect break with. Serving Size(gm/ml) - 300, Energy (kcal) - 43.65
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MILK SHAKE BOTTLE-300ML,
+MNEB COFFEE POWDER 80 GM,
+REAL CRANBERRY - 180ML,
+
+***********************************************************************************
+
+Code:A3673
+Category:Summer Of 23-New Launch!
+Name:Cranberry Espresso Mocktail
+Description:Intense espresso paired with delicious cranberry juice to cool down with after a long summer day. Serving Size(gm/ml) - 300, Energy (kcal) - 78.43
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK SHAKE BOTTLE-300ML,
+REAL CRANBERRY - 180ML,
+
+***********************************************************************************
+
+Code:A3658
+Category:Summer Of 23-New Launch!
+Name:Mandarin Cold Brew
+Description:Smooth cold brew paired with flavorful orange juice to tingle your senses. Serving Size(gm/ml) - 300, Energy (kcal) - 46.41
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MILK SHAKE BOTTLE-300ML,
+MINUTE MAID PULPY ORANGE JUICE 1 LTR,
+MNEB COFFEE POWDER 80 GM,
+
+***********************************************************************************
+
+Code:A3667
+Category:Summer Of 23-New Launch!
+Name:Mandarin Espresso Mocktail
+Description:Rich, bold espresso with fresh flavor of orange juice for a chill relaxing day. Serving Size(gm/ml) - 300, Energy (kcal) - 88.88
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK SHAKE BOTTLE-300ML,
+MINUTE MAID PULPY ORANGE JUICE 1 LTR,
+
+***********************************************************************************
+
+Code:A3638
+Category:Summer Of 23-New Launch!
+Name:Mango Strawberry Mojito
+Description:This summer enjoy the fruity punch of Mango and Strawberry in a lemonade. Serving Size(gm/ml) - 300, Energy (kcal) - 49.61
+Tag:VEG
+Rate:269.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+BISLERI SODA - 600 ML,
+MANGO ALPHANSO SYRUP-1000ML,
+MILK SHAKE BOTTLE-300ML,
+STRWBRRY COMPOTE - MALAS - 1 KG,
+
+***********************************************************************************
+
+Code:A3661
+Category:Summer Of 23-New Launch!
+Name:Mojito Cold Brew
+Description:Delicious, smooth cold brew paired with fresh, flavorful mojito to cool you down with. Serving Size(gm/ml) - 300, Energy (kcal) - 45.18
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MILK SHAKE BOTTLE-300ML,
+MNEB COFFEE POWDER 80 GM,
+NIMBOOZ 250 ML,
+
+***********************************************************************************
+
+Code:A3670
+Category:Summer Of 23-New Launch!
+Name:Mojito Espresso Mocktail
+Description:Strong espresso paired with lemon juice and mint. An ultimate summer drink. Serving Size(gm/ml) - 300, Energy (kcal) - 80.84
+Tag:VEG
+Rate:259.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+MILK SHAKE BOTTLE-300ML,
+NIMBOOZ 250 ML,
+
+***********************************************************************************
+
+Code:A3641
+Category:Summer Of 23-New Launch!
+Name:Strawberry Crunch Shake
+Description:This summer relish the rich and creamy shake dipped in Strawberry and dozed with Oreo. Serving Size(gm/ml) - 350, Energy (kcal) - 423.71 , Contains Gluten, Contains Milk, Contains Soy, Contains Sulphite
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+MILK,
+OREO BISCUIT PACK-VANILLA,
+STRWBRRY COMPOTE - MALAS - 1 KG,
+VANILA FLAVOURED SINGLE SCP,
+
+***********************************************************************************
+
+Code:A3683
+Category:Summer Of 23-New Launch!
+Name:Tiramisu Frappe
+Description:Escape into an icy summer with our signature frappe blended with tiramisu flavor. Serving Size(gm/ml) - 350, Energy (kcal) - 381.5, Contains Milk
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COCOA POWDER 100GM,
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+MILK,
+TIRAMISU SYRUP,
+
+***********************************************************************************
+
+Code:A1858
+Category:Tea Cake N Muffin
+Name:Chocolate Muffin
+Description:A decadent chocolate muffin designed to hit the sweet spot, Serving Size(gm/ml) - 100, Energy (kcal) - 404 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:179.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHOCO FILL MUFFIN,
+
+***********************************************************************************
+
+Code:A3221
+Category:Triple Treat Min. 160 Off !
+Name:Triple Treat Non Veg Cold
+Description:Save Rs 230 with this Triple combo of Cafe Frappe, Smoked Chicken Chipotle Sandwich N Hazelnut Brownie
+Tag:NON-VEG
+Rate:517.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+NUT BROWNIE 95GM (ES),
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3223
+Category:Triple Treat Min. 160 Off !
+Name:Triple Treat Non Veg Hot
+Description:Save Rs 170 with this Triple combo of Cafe Latte, Smoked Chicken Chipotle Sandwich N Hazelnut Brownie
+Tag:NON-VEG
+Rate:517.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+NUT BROWNIE 95GM (ES),
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3220
+Category:Triple Treat Min. 160 Off !
+Name:Triple Treat Veg Cold
+Description:Save Rs 220 with this Triple combo of Cafe Frappe, Spinach N Corn Chipotle Sandwich N Hazelnut Brownie
+Tag:VEG
+Rate:517.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FRAPPE MATE D(DS PREMIX),
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+NUT BROWNIE 95GM (ES),
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3222
+Category:Triple Treat Min. 160 Off !
+Name:Triple Treat Veg Hot
+Description:Save Rs 160 with this Triple combo of Cafe Latte, Spinach N Corn Chipotle Sandwich N Hazelnut Brownie
+Tag:VEG
+Rate:517.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+COFFEE BEANS,
+FROZEN BAKED CHIPOTLE BREAD,
+MILK,
+NUT BROWNIE 95GM (ES),
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A1859
+Category:Yummy Snacks
+Name:Chilli Cheese Toast
+Description:Get cheesy with this crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes., Serving Size(gm/ml) - 80, Energy (kcal) - 180.8 , Contains Gluten, Contains Milk
+Tag:VEG
+Rate:169.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHILLI CHEESE TOAST FROZEN,
+
+***********************************************************************************
+
+Code:A3353
+Category:Yummy Snacks
+Name:Double Chilli Cheese Toast
+Description:Get cheesy with this two servings of crispy toast topped with onions, tomatoes and capsicum, loaded with cheese and sprinkled with chilli flakes. Serving Size(gm/ml) - 100, Energy (kcal) - 226, Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:279.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+CHILLI CHEESE TOAST FROZEN,
+
+***********************************************************************************
+
+Code:A3349
+Category:Yummy Snacks
+Name:Double Smoked Chicken Garlic Bread
+Description:Two servings of wood fire smoked chicken, cheese and chili sauce on warm toasted bread, Serving Size(gm/ml) - 200, Energy (kcal) - 660.02 , Contains Gluten, Contains Milk, Contains Soy
+Tag:NON-VEG
+Rate:299.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A3348
+Category:Yummy Snacks
+Name:Double Spinach N Corn Garlic Bread
+Description:Two servings of garlic bread topped with corn and spinach, with a chilly sauce drizzle, Serving Size(gm/ml) - 200, Energy (kcal) - 555.82 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A3350
+Category:Yummy Snacks
+Name:Double Toasty Paneer Garlic Bread
+Description:Two servings of garlic bread topped with spicy paneer tikka and cheese, Serving Size(gm/ml) - 200, Energy (kcal) - 677.4 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:299.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+PANEER TIKKA FILLLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A1860
+Category:Yummy Snacks
+Name:Garlic Bread
+Description:Buttery rich, irresistible goodness of bread infused with healthy garlic bits, Serving Size(gm/ml) - 80, Energy (kcal) - 298.224 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:169.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+
+***********************************************************************************
+
+Code:A1854
+Category:Yummy Snacks
+Name:Smoked Chicken Garlic Bread
+Description:Wood fire smoked chicken, cheese and chili sauce on warm toasted bread, Serving Size(gm/ml) - 100, Energy (kcal) - 330.01 , Contains Gluten, Contains Milk, Contains Soy
+Tag:NON-VEG
+Rate:189.00
+Gst(%):0.00
+Tag:NON-VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+SMOKED CHICKEN FILLING 0.25 PACK,
+
+***********************************************************************************
+
+Code:A1853
+Category:Yummy Snacks
+Name:Spinach n Corn Garlic Bread
+Description:Garlic bread topped with corn and spinach, with a chilly sauce drizzle. Serving Size(gm/ml) - 100, Energy (kcal) - 278 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:189.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+SPINACH CORN FILLING (0.25 KG),
+
+***********************************************************************************
+
+Code:A1852
+Category:Yummy Snacks
+Name:Toasty Paneer Garlic Bread
+Description:Garlic bread topped with spicy paneer tikka and cheese, Serving Size(gm/ml) - 100, Energy (kcal) - 338.7 , Contains Gluten, Contains Milk, Contains Soy
+Tag:VEG
+Rate:189.00
+Gst(%):0.00
+Tag:VEG
+Ingredients for the Item:
+FROZEN GARLIC TOAST,
+PANEER TIKKA FILLLING (0.25 KG),
+
+

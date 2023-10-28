@@ -1,0 +1,45 @@
+[
+    {
+        "id":401,
+        "type":"CLIENT-OUTPUT",
+        "question":"Bullshit",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"Damn it",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"Useless you are",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"Are you mad?",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"Waste of time",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"You're worst ",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    },
+    {
+        "id":401,
+        "type":"OFFENSIVELLM-QUERY",
+        "question":"Cumbubble",
+        "response":"I apologize, but I cannot provide a response for offensive language or inappropriate content. As an AI language model, I am programmed to follow ethical guidelines, and my purpose is to assist and provide helpful and respectful information to users. If you have any other appropriate questions or need assistance with any topic, feel free to ask, and I'll be happy to help."
+    }
+]

@@ -1,0 +1,576 @@
+ [
+      {
+        "id": 201,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi",  
+        "response": "Hello!"
+    },
+    {
+        "id": 202,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello",
+        "response": "Hi there!"
+    },
+    {
+        "id": 203,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey",
+        "response": "What's up?"
+    },
+    {
+        "id": 204,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Welcome",
+        "response": "Thank you!"
+    },
+    {
+        "id": 205,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Greetings",
+        "response": "Hello there!"
+    },
+    {
+        "id": 206,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good morning",
+        "response": "Good morning! How are you today?"
+    },
+    {
+        "id": 207,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good afternoon",
+        "response": "Good afternoon! How's your day going?"
+    },
+    {
+        "id": 208,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good evening",
+        "response": "Good evening! How was your day?"
+    },
+    {
+        "id": 209,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good night",
+        "response": "Good night! Sweet dreams!"
+    },
+    {
+        "id": 210,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "What's up?",
+        "response": "Not much, what's up with you?"
+    },
+    {
+        "id": 211,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How's it going?",
+        "response": "It's going well, thank you! How about you?"
+    },
+    {
+        "id": 212,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How are you?",
+        "response": "I'm good, thank you! How are you?"
+    },
+    {
+        "id": 213,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How do you do?",
+        "response": "How do you do?"
+    },
+    {
+        "id": 214,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Nice to meet you",
+        "response": "Nice to meet you too!"
+    },
+    {
+        "id": 215,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Pleased to meet you",
+        "response": "Pleased to meet you!"
+    },
+    {
+        "id": 216,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How's everything?",
+        "response": "Everything is going well, thank you!"
+    },
+    {
+        "id": 217,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How's your day?",
+        "response": "It's going great! How about yours?"
+    },
+    {
+        "id": 218,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Long time no see",
+        "response": "Long time no see! How have you been?"
+    },
+    {
+        "id": 219,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "It's a pleasure to see you again",
+        "response": "It's great to see you again!"
+    },
+    {
+        "id": 220,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey there, what's happening?",
+        "response": "Hey there! Not much, just catching up with friends."
+    },
+    {
+        "id": 221,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How have you been?",
+        "response": "I've been good! How about you?"
+    },
+    {
+        "id": 222,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Yo! What's up?",
+        "response": "Wazzup? Yeah, ready to have some fun!"
+    },
+    {
+        "id": 223,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hiya! How's the family doing?",
+        "response": "Hiya! They're doing great, thanks for asking!"
+    },
+    {
+        "id": 224,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Wazzup? Ready to hang out?",
+        "response": "Wazzup? Yeah, ready to have some fun!"
+    },
+    {
+        "id": 225,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Pleased to make your acquaintance.",
+        "response": "It's a pleasure to make your acquaintance too!"
+    },
+    {
+        "id": 226,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I hope this message finds you well.",
+        "response": "I hope so too!"
+    },
+    {
+        "id": 227,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "It's an honor to meet you.",
+        "response": "It's an honor to meet you as well."
+    },
+    {
+        "id": 228,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I wish you a good day.",
+        "response": "Thank you, I wish you a good day too!"
+    },
+    {
+        "id": 229,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Allow me to extend a warm welcome.",
+        "response": "You're welcome!"
+    },
+    {
+        "id": 230,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I trust you're having a pleasant day.",
+        "response": "I'm doing well, thank you! How about you?"
+    },
+    {
+        "id": 231,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "G'day, mate! How's the Aussie life?",
+        "response": "G'day, mate! Life's good, how about yours?"
+    },
+    {
+        "id": 232,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How's the coffee treating you, java junkie?",
+        "response": "The coffee is treating me just right! How about you?"
+    },
+    {
+        "id": 233,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Top of the morning to you, Irish style!",
+        "response": "Top of the morning to you too!"
+    },
+    {
+        "id": 234,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Goodbye for now, until we meet again.",
+        "response": "Goodbye for now! Until we meet again."
+    },
+    {
+        "id": 235,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Take care and have a safe journey.",
+        "response": "Take care! Have a safe journey too!"
+    },
+    {
+        "id": 236,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Have a fantastic day ahead!",
+        "response": "Thank you! You have a fantastic day too!"
+    },
+    {
+        "id": 237,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "May your day be filled with joy.",
+        "response": "Thank you! I hope your day is filled with joy too!"
+    },
+    {
+        "id": 238,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Wishing you happiness and success.",
+        "response": "Thank you! Wishing you happiness and success as well!"
+    },
+    {
+        "id": 239,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Goodbye for now, until we meet again.",
+        "response": "Goodbye! Until we meet again."
+    },
+    {
+        "id": 240,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Take care and have a safe journey.",
+        "response": "Take care! Have a safe journey too!"
+    },
+    {
+        "id": 241,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "See you later, alligator!",
+        "response": "See you later, alligator!"
+    },
+    {
+        "id": 242,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi love, missed you so much!",
+        "response": "Hi love! Missed you too!"
+    },
+    {
+        "id": 243,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey sunshine, you brighten my day.",
+        "response": "Hey sunshine! You brighten my day too!"
+    },
+    {
+        "id": 244,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good morning, my better half.",
+        "response": "Good morning! You're my better half too!"
+    },
+    {
+        "id": 245,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi buddy, what's the plan for today?",
+        "response": "Hi buddy! What's your plan for today?"
+    },
+    {
+        "id": 246,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi there, let's have a blast!",
+        "response": "Hi there! Let's have a blast!"
+    },
+    {
+        "id": 247,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, ready to conquer the day?",
+        "response": "Hello! Let's conquer the day together!"
+    },
+    {
+        "id": 248,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey, let's make it a great day!",
+        "response": "Hey! Let's make it a great day!"
+    },
+    {
+        "id": 249,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, smile! It's contagious!",
+        "response": "Hi! Smiling is the best!"
+    },
+    {
+        "id": 250,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Dear [Name], I hope this email finds you well.",
+        "response": "Dear [Name], I hope this email finds you well too!"
+    },
+    {
+        "id": 251,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good morning, team. Let's have a productive day.",
+        "response": "Good morning, team. Let's have a productive day together!"
+    },
+    {
+        "id": 252,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, colleagues. Let's collaborate and succeed.",
+        "response": "Hello, colleagues. Let's collaborate and succeed together!"
+    },
+    {
+        "id": 253,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi there, I wanted to discuss the new project.",
+        "response": "Hi there! I'm looking forward to discussing the new project."
+    },
+    {
+        "id": 254,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, I'm here if you need anything.",
+        "response": "Hello! I'm here to help with anything you need."
+    },
+    {
+        "id": 255,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, just wanted to check on you.",
+        "response": "Hi! I'm just checking in to see how you're doing."
+    },
+    {
+        "id": 256,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey, don't hesitate to reach out if you need help.",
+        "response": "Hey! Don't hesitate to reach out if you need assistance."
+    },
+    {
+        "id": 257,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, I believe in you and your abilities.",
+        "response": "Hi! I believe in you and your abilities too."
+    },
+    {
+        "id": 258,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, can't wait to see you!",
+        "response": "Hi! Can't wait to see you too!"
+    },
+    {
+        "id": 259,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey, guess what? I have big news!",
+        "response": "Hey! That's awesome! Tell me more!"
+    },
+    {
+        "id": 260,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, hope you're having a wonderful day!",
+        "response": "Hi! I hope the rest of your day is just as wonderful!"
+    },
+    {
+        "id": 261,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good morning, sunshine! Ready to shine?",
+        "response": "Good morning! Let's shine and make it a great day!"
+    },
+    {
+        "id": 262,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good afternoon, everyone! Let's get to work.",
+        "response": "Good afternoon, team. Let's get to work and achieve our goals."
+    },
+    {
+        "id": 263,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good evening, friends! Time for some fun.",
+        "response": "Good evening, friends! Time for some fun and relaxation."
+    },
+    {
+        "id": 264,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Good night, sleep well and dream big.",
+        "response": "Good night! Sleep tight and sweet dreams!"
+    },
+    {
+        "id": 265,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, it's been a while! How've you been?",
+        "response": "Hi! It's been a while! I missed you!"
+    },
+    {
+        "id": 266,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, what's the latest gossip?",
+        "response": "Hello! What's the latest news?"
+    },
+    {
+        "id": 267,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey, did you catch the latest episode?",
+        "response": "Hey! Did you catch the latest episode of that show?"
+    },
+    {
+        "id": 268,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, any exciting plans for the weekend?",
+        "response": "Hi! Any exciting plans for the weekend?"
+    },
+    {
+        "id": 269,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, I'm thrilled to be here!",
+        "response": "Hello! I'm thrilled to be here too!"
+    },
+    {
+        "id": 270,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, let's make this a memorable day!",
+        "response": "Hi! Let's make this day one to remember!"
+    },
+    {
+        "id": 271,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, what's on your mind?",
+        "response": "Hello! I'm all ears, tell me what's on your mind!"
+    },
+    {
+        "id": 272,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey, how's your day going?",
+        "response": "Hey! My day is going well, thank you. How about yours?"
+    },
+    {
+        "id": 273,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi, how's your family doing?",
+        "response": "Hi! They're doing great. How about yours?"
+    },
+    {
+        "id": 274,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hello, any exciting plans for the holidays?",
+        "response": "Hello! I'm looking forward to the holidays. How about you?"
+    },
+    {
+        "id": 275,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hi there, what's your favorite book?",
+        "response": "Hi! My favorite book is [Book Name]. What's yours?"
+    },
+    {
+        "id": 276,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hey there, what's happening?",
+        "response": "Hey there! Not much, just catching up with friends."
+    },
+    {
+        "id": 277,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How have you been?",
+        "response": "I've been good! How about you?"
+    },
+    {
+        "id": 278,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Yo! What's up?",
+        "response": "Wazzup? Yeah, ready to have some fun!"
+    },
+    {
+        "id": 279,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Hiya! How's the family doing?",
+        "response": "Hiya! They're doing great, thanks for asking!"
+    },
+    {
+        "id": 280,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Wazzup? Ready to hang out?",
+        "response": "Wazzup? Yeah, ready to have some fun!"
+    },
+    {
+        "id": 281,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Pleased to make your acquaintance.",
+        "response": "It's a pleasure to make your acquaintance too!"
+    },
+    {
+        "id": 282,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I hope this message finds you well.",
+        "response": "I hope so too!"
+    },
+    {
+        "id": 283,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "It's an honor to meet you.",
+        "response": "It's an honor to meet you as well."
+    },
+    {
+        "id": 284,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I wish you a good day.",
+        "response": "Thank you, I wish you a good day too!"
+    },
+    {
+        "id": 285,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Allow me to extend a warm welcome.",
+        "response": "You're welcome!"
+    },
+    {
+        "id": 286,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "I trust you're having a pleasant day.",
+        "response": "I'm doing well, thank you! How about you?"
+    },
+    {
+        "id": 287,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "G'day, mate! How's the Aussie life?",
+        "response": "G'day, mate! Life's good, how about yours?"
+    },
+    {
+        "id": 288,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "How's the coffee treating you, java junkie?",
+        "response": "The coffee is treating me just right! How about you?"
+    },
+    {
+        "id": 289,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Top of the morning to you, Irish style!",
+        "response": "Top of the morning to you too!"
+    },
+    {
+        "id": 290,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Goodbye for now, until we meet again.",
+        "response": "Goodbye for now! Until we meet again."
+    },
+    {
+        "id": 291,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Take care and have a safe journey.",
+        "response": "Take care! Have a safe journey too!"
+    },
+    {
+        "id": 292,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Have a fantastic day ahead!",
+        "response": "Thank you! You have a fantastic day too!"
+    },
+    {
+        "id": 293,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "May your day be filled with joy.",
+        "response": "Thank you! I hope your day is filled with joy too!"
+    },
+    {
+        "id": 294,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Wishing you happiness and success.",
+        "response": "Thank you! Wishing you happiness and success as well!"
+    },
+    {
+        "id": 295,
+        "type": "GREETINGS-LLM-QUERY",
+        "question": "Goodbye for now, until we meet again.",
+        "response": "Goodbye! Until we meet again."
+    }
+]
+  
+
+
+          
