@@ -6,7 +6,7 @@ from langchain.agents import load_tools
 from langchain.agents import initialize_agent
 from langchain.agents import AgentType
 import json
-#from ccd_text_split import *
+from ccd_text_split import *
 
 llm = OpenAI(temperature=1, openai_api_key='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')
 llm_chat = ChatOpenAI(temperature=1, openai_api_key="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")
@@ -81,14 +81,14 @@ def main_process(user_input):
             
         elif 'Offensive' in result:
             return response_generator('https://github.com/Thrishaaa/streamlit/blob/main/4_offensive.json',user_input,'https://github.com/Thrishaaa/streamlit/blob/main/Offensive_prompt.txt')
-        """
+        
         elif 'Database' in result:
             #print('\n AI:  ',response_generator('/root/Programs/Tree_OpenAi_v2/json files/5_database.json',user_input))
             context = product_qa(user_input)
             with open('https://github.com/Thrishaaa/streamlit/blob/main/Database_prompt.txt', 'r') as file:
                 template = file.read()
             template = template + context + "{history}"
-            return chat_reply(template,user_input)"""
+            return chat_reply(template,user_input)
         else:
             langchain_response = langchain_interaction(user_input)
             return langchain_response
