@@ -1,0 +1,6 @@
+ctransformers
+langchain
+pinecone_client
+streamlit
+torch
+transformers
