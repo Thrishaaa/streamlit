@@ -1,4 +1,4 @@
-from packages import *
+from .packages import *
 from sentence_transformers import SentenceTransformer
 
 #Connecting to Pinecone Server
